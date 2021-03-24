@@ -10,6 +10,8 @@ https://python.plainenglish.io/radar-chart-basics-with-pythons-matplotlib-ba9e00
 ## Dependencies
 requests, pillow (Image), matplotlib (pyplot), numpy, pandas
 
+math (pi), random
+
 
 ## Potential Improvements
 • Include weight info, life span
