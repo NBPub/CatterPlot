@@ -84,12 +84,6 @@ def catterplot():
         x,y = sampleimg.size
         plt.text(0-x/20, y+y/8, AKAtext)
 
-
-
-
-
-
-
     # Radar Plot
     ax = plt.subplot(122, polar = "True")
     ax.spines['polar'].set_visible(False)
