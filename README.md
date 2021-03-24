@@ -2,6 +2,7 @@
 Made a little cat investigator using data from https://thecatapi.com/. Currently living as an IPython Notebook and raw script, but will try to publish in a more friendly way.
 
 Used with knowledge gleaned from:
+
 https://realpython.com/python-api/ 
 
 https://python.plainenglish.io/radar-chart-basics-with-pythons-matplotlib-ba9e002ddbcd
