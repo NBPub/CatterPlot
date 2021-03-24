@@ -1,5 +1,5 @@
 # CatAPI_RadarPlot
-Made a little cat investigator using data from https://thecatapi.com/. Currently living as an IPython Notebook, but will try to publish in a more friendly way.
+Made a little cat investigator using data from https://thecatapi.com/. Currently living as an IPython Notebook and raw script, but will try to publish in a more friendly way.
 
 Used with knowledge gleaned from:
 https://realpython.com/python-api/
