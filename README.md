@@ -1,20 +1,22 @@
 # CatAPI_RadarPlot
-Made a little cat investigator using data from https://thecatapi.com/. Currently living as an IPython Notebook, which shows example output, and raw script. I will try to publish in a more friendly way.
+Made a little cat investigator using data from https://thecatapi.com/. The file uses a simple GUI (via guizero) to (1) fetch and parse data and (2) generate a random cat (info, image, plot) in a new window. 
 
-Used with knowledge gleaned from:
+To do: properly package code for others to run without dependencies.
+
+Tutorials followed:
 
 https://realpython.com/python-api/ 
 
 https://python.plainenglish.io/radar-chart-basics-with-pythons-matplotlib-ba9e002ddbcd
 
 ## Dependencies
-requests, pillow (Image), matplotlib (pyplot), numpy, pandas
+requests, pillow (Image), matplotlib (pyplot), numpy, pandas, guizero
 
-math (pi), random
+math (pi), random, os
 
 
 ## Potential Improvements
-• Include weight info, life span
+• Include life span
 
 • Re-visit code and clean up with newfound knowledge
 
