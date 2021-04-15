@@ -1,7 +1,7 @@
 # CatAPI_RadarPlot
-Made a little cat investigator using data from https://thecatapi.com/. The file uses a simple GUI (via guizero) to (1) fetch and parse data and (2) generate a random cat (info, image, plot) in a new window. 
+Made a little cat investigator using data from https://thecatapi.com/. The file uses a simple GUI *via guizero* to (1) fetch and parse data and (2) generate a random cat (info, image, plot) in a new window. 
 
-To do: properly package code for others to run without dependencies.
+**To do:** properly package code for others to run without dependencies.
 
 Tutorials followed:
 
