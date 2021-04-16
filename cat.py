@@ -114,10 +114,10 @@ def CatterPlot():
         ax1.set_title(imgtitle, fontsize = 14, fontweight = 'heavy')
         x,y = sampleimg.size
         if y > x:
-            delta = y/8
+            delta = y/6
             uppers = (14,10)
         else:
-            delta = y/4
+            delta = y/3
             uppers = (8,5)
         ax1.text(-0.5, -y/uppers[0], catinfo.loc[samplename, 'weight']['metric'] + ' kg')
         a = ax1.text(x/5, -y/uppers[0], AKAtext, wrap = True)
@@ -147,7 +147,7 @@ def CatterPlot():
     plt.text(1,5.85,catcount, color = 'grey')
     plt.text(1.05,6.25,samplename,color = 'blue')
     plt.savefig('cat.png')
-    window = Window(app, title = samplename + 'Cat', width = 900, height = 600)
+    window = Window(app, title = samplename + 'Cat', width = 1200, height = 900)
     picture = Picture(window, image = 'cat.png')
     plt.close()
 
