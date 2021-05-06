@@ -13,6 +13,10 @@ requests, pillow (Image), matplotlib (pyplot), numpy, pandas, guizero
 
 math (pi), random, os
 
+## Example Output
+
+![Example](https://github.com/NBPub/CatterPlot/blob/main/Example/Munchkin.png)
+
 ## Tutorials followed:
 
 https://realpython.com/python-api/ 
