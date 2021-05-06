@@ -4,9 +4,11 @@ Investigate various cat breeds using data fetched from TheCatAPI.com
 
 ## Installation
 
-Packaged using python poetry (https://python-poetry.org/).
+Download CatterPlot.py to a dedicated folder and run using python.
 
-Instructions incoming
+Packaged using python poetry (https://python-poetry.org/). Required dependencies can easily be installed in a virtual environment. Be sure to include pyproject.toml and poetry.lock files in your folder.
+
+External libraries listed below.
 
 ## Dependencies
 requests, pillow (Image), matplotlib (pyplot), numpy, pandas, guizero
