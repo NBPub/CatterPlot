@@ -3,7 +3,9 @@ name = "CatterPlot"
 version = "0.1.0"
 description = "Investigate various cat breeds using data fetched from TheCatAPI.com"
 authors = ["NBPub"]
-license = "GPL-3.0"
+license = "GPL-3.0-or-later"
+readme = "README.md"
+repository = "https://github.com/NBPub/CatterPlot"
 
 [tool.poetry.dependencies]
 python = "^3.8"
