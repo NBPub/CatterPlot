@@ -7,8 +7,6 @@ Created on Wed Apr 14 12:25:31 2021
 
 # libraries
 import os
-os.chdir(os.path.dirname(__file__))
-
 from guizero import App, Text, PushButton, Picture, Window
 import pickle as pickle
 import requests as re
