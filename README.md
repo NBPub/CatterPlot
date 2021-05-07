@@ -6,7 +6,7 @@ Investigate various cat breeds using data fetched from TheCatAPI.com
 
 Download CatterPlot.py to a dedicated folder and run using python.
 
-Packaged using python poetry (https://python-poetry.org/). Required dependencies can easily be installed in a virtual environment. Be sure to include pyproject.toml and poetry.lock files in your folder.
+Packaged using python poetry (https://python-poetry.org/). Required dependencies can easily be installed in a virtual environment. Be sure to include the pyproject.toml, poetry.lock, optionally and README.md files in your folder. With poetry, navigate to the direcotry containing CatterPlot.py in CMD or terminal, then enter "poetry install" to add required dependencies.
 
 External libraries listed below.
 
